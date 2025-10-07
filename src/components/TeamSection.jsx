@@ -4,7 +4,7 @@ const TeamSection = () => (
   <section className="team-section">
     <div className="container">
       <div className="team-member">
-        <div className="member-image"><img src="src/assets/person_3.jpg.webp" alt="Member" /></div>
+        <div className="member-image"><img src="./assets/person_3.jpg.webp" alt="Member" /></div>
         <div className="member-info">
           <h3>Ahmed Raza</h3>
           <p className="role">CEO & Founder</p>
@@ -13,7 +13,7 @@ const TeamSection = () => (
       </div>
 
       <div className="team-member">
-        <div className="member-image"><img src="src/assets/person_5.jpg.webp" alt="Member" /></div>
+        <div className="member-image"><img src="./assets/person_5.jpg.webp" alt="Member" /></div>
         <div className="member-info">
           <h3>Sara Malik</h3>
           <p className="role">Marketing Head</p>
