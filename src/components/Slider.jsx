@@ -3,13 +3,13 @@ import "../index.css";
 
 const slides = [
   {
-    image: "../assets/person_1.jpg.webp",
+    image: "./assets/person_1.jpg.webp",
     status: "FOR RENT",
     title: "871 CRENSHAW BLVD",
     price: "$2,250,500",
   },
   {
-    image: "src/assets/person_3.jpg.webp",
+    image: "./assets/person_3.jpg.webp",
     status: "FOR SALE",
     title: "Modern Apartment",
     price: "$1,800,000",

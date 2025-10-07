@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 const slides = [
-  { image: "src/assets/img_1.jpg.webp", title: "Find Your Dream Home", subtitle: "Luxury Apartments & Villas" },
-  { image: "src/assets/img_2.jpg.webp", title: "Modern Living", subtitle: "Comfort & Elegance" },
-  { image: "src/assets/img_3.jpg.webp", title: "Trusted Property Experts", subtitle: "Buy, Sell or Rent" },
+  { image: "./assets/img_1.jpg.webp", title: "Find Your Dream Home", subtitle: "Luxury Apartments & Villas" },
+  { image: "./assets/img_2.jpg.webp", title: "Modern Living", subtitle: "Comfort & Elegance" },
+  { image: "./assets/img_3.jpg.webp", title: "Trusted Property Experts", subtitle: "Buy, Sell or Rent" },
 ];
 
 const HeroSlider = () => {

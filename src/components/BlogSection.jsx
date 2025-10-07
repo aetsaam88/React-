@@ -10,7 +10,7 @@ const BlogSection = () => (
 
       <div className="blog-posts">
         <div className="blog-post">
-          <img src="src/assets/img_4.jpg.webp" alt="blog1" />
+          <img src="./assets/img_4.jpg.webp" alt="blog1" />
           <div className="post-content">
             <span className="post-date">OCT 2025</span>
             <h3><a href="#">Real Estate Trends 2025</a></h3>
@@ -18,7 +18,7 @@ const BlogSection = () => (
           </div>
         </div>
         <div className="blog-post">
-          <img src="src/assets/img_5.jpg.webp" alt="blog2" />
+          <img src="./assets/img_5.jpg.webp" alt="blog2" />
           <div className="post-content">
             <span className="post-date">SEP 2025</span>
             <h3><a href="#">How to Buy Property Smartly</a></h3>
